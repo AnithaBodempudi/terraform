@@ -1,4 +1,4 @@
-# Terraform local files
+# Ignore Terraform plugin binaries
 .terraform/
 *.tfstate
 *.tfstate.*
